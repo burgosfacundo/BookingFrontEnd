@@ -2,7 +2,7 @@
 
 ## Frontend
 
-Despliegue en Vercel: [https://booking-front-end-nu.vercel.app/](https://booking-front-end-nu.vercel.app/))
+Despliegue en Vercel: [https://booking-front-end-nu.vercel.app/](https://booking-front-end-nu.vercel.app/)
 
 **Usuario 1:**
 
@@ -16,7 +16,7 @@ Despliegue en Vercel: [https://booking-front-end-nu.vercel.app/](https://booking
 
 ## Backend
 
-Despliegue en Render: [https://booking-api-tsbo.onrender.com](https://booking-api-tsbo.onrender.com))
+Despliegue en Render: [https://booking-api-tsbo.onrender.com](https://booking-api-tsbo.onrender.com)
 
 **Admin:**
 
